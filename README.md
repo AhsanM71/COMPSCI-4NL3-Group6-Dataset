@@ -19,6 +19,9 @@ Welcome to the Codabench benchmark! In this guide, we will walk you through the 
 4. **Submit the Zip File**  
    Once you have prepared your zip file with the required contents, you can upload it for evaluation.
 
+5. **Example predicted_label File**
+   In this repo contains an example of how the predicted_label file should look like.
+
 ---
 
 ### Example Structure of Your Submission
